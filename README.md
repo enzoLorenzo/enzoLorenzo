@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## About Me
+### About Me
 
 My name is **Simon Lorenc** and I am a passionate **Fullstack Developer** with expertise in building scalable and maintainable applications. On the frontend, I specialize in **Angular**, leveraging its latest features to craft dynamic and user-friendly interfaces. For backend development, I use **Java** with modern frameworks like **Spring Boot**.
 
